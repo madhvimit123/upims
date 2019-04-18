@@ -1,4 +1,4 @@
-![GLA](https://github.com/madhvimit123/University-Placement-Information-Management-System/blob/master/gla.png)
+![GLA](https://github.com/madhvimit123/upims/blob/master/gla.png)
 # GLA UNIVERSITY MATHURA ,2019
 ## Mini Project Synopsis
 ## University Placement Information Management System
